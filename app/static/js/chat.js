@@ -1,4 +1,4 @@
-const API_KEY = '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' // apikey from openai
+const API_KEY = '' // apikey from openai
 
 const form = document.getElementById('input-form');
 const mytextInput = document.getElementById('chat-input-message');
