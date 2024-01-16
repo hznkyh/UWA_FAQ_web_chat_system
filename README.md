@@ -159,6 +159,12 @@ python 3.11.3 or above
 
 If you don't have python installed, you can download it [here](https://www.python.org/downloads/)
 
+```
+OpenAI API key
+```
+
+The chatbot is based on OpenAI API, please enter your own key in the file "chat.js".
+
 ### Installation
 Download the project from github. Skip this step if you have already downloaded the project.
 ```
